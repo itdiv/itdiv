@@ -7,4 +7,6 @@ class ProblemSolver
 
 	def solve_tough_problem
 	end
+
+	def custom_problem_from_other
 end
